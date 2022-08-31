@@ -10,7 +10,7 @@ read _requirements.txt_
 1. download and open the file
 2. make virtual environment
 3. install package(s)
-    1. __pip install -r requirements.txt
+    1. __pip install -r requirements.txt__
    
    
 #### To run..⋅⋅
