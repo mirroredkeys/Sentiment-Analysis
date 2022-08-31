@@ -7,7 +7,7 @@ Python 3.10.5
 read _requirements.txt_
     
 #### App Installation/Execution Procedures:
-1. download and open the file
+1. download and open the folder
 2. make virtual environment
 3. install package(s)
     1. __pip install -r requirements.txt__
